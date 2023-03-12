@@ -1,0 +1,15 @@
+C:\Users\555\source\repos\ap208Task\ap208Task\bin\Debug\net6.0\ap208Task.exe
+C:\Users\555\source\repos\ap208Task\ap208Task\bin\Debug\net6.0\ap208Task.deps.json
+C:\Users\555\source\repos\ap208Task\ap208Task\bin\Debug\net6.0\ap208Task.runtimeconfig.json
+C:\Users\555\source\repos\ap208Task\ap208Task\bin\Debug\net6.0\ap208Task.dll
+C:\Users\555\source\repos\ap208Task\ap208Task\bin\Debug\net6.0\ap208Task.pdb
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.csproj.AssemblyReference.cache
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.AssemblyInfoInputs.cache
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.AssemblyInfo.cs
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.csproj.CoreCompileInputs.cache
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.dll
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\refint\ap208Task.dll
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.pdb
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ap208Task.genruntimeconfig.cache
+C:\Users\555\source\repos\ap208Task\ap208Task\obj\Debug\net6.0\ref\ap208Task.dll
